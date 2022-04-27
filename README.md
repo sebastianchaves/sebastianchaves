@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sebastianchaves/sebastianchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, Sebastian Chaves here</h1>
+<h3 align="center">Information Systems Engineer and Software Engineer from Buenos Aires, Argentina</h3>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛫 I’m currently working on [**@Despegar**](https://github.com/despegar)
+
+- 👨‍🎓 I'm Information Systems Engineer from [**@Universidad Tecnologica Nacional FRBA**](https://www.frba.utn.edu.ar/)
+
+- 📫 How to reach me: **seba.chaves.sc@gmail.com**
+
+<br/><br/>
