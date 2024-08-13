@@ -7,7 +7,7 @@
 
 - 🛫 I’m currently working on [**@Despegar**](https://github.com/despegar)
 
-- 👨‍🎓 I'm Information Systems Engineer from [**@Universidad Tecnologica Nacional FRBA**](https://www.frba.utn.edu.ar/)
+- 👨‍🎓 I'm an Information Systems Engineer from [**@Universidad Tecnologica Nacional FRBA**](https://www.frba.utn.edu.ar/)
 
 - 📫 How to reach me: **seba.chaves.sc@gmail.com**
 
